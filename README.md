@@ -84,18 +84,28 @@ The analysis answers several business questions, including:
 Screenshots of selected query results can be found in the project files, including:
 
 * Top Customers by Revenue
-  
- 
+
+![](Sample%20Analysis%20Result/Top%2010%20Customer%20by%20Revenue.png)
+
+
+
 * Top Countries by Sales
-  
+
+![](https://github.com/IBRAHIEEM/Chinook-Music-Store-SQL-Analysis/blob/main/Sample%20Analysis%20Result/Top%2010%20Country%20%20by%20Revenue%20.png)
   
 * Best Selling Tracks
+
+![](Sample%20Analysis%20Result/Best%20Selling%20Track%20.png)
+  
   
 * Top Artists by Sales
+![](Sample%20Analysis%20Result/Top%20Artist%20by%20Sales%20.png)
 
   
   
 * Sales Trends Analysis
+
+![](Sample%20Analysis%20Result/Trend%20Analysis%20.png)
 
   
 
